@@ -2,8 +2,8 @@
 This project is centered on creating forecast models to predict liver disease.
 
 ## Dataset and Algorithm
-The dataset contains 199 records and 11 independent variables including Total Bilirubin, Direct Bilirubin, Alkphos Alkaline Phsophatase,
-Sgpt Alanine Aminotransferase, Sgot Aspartate Aminotransferase, Total Proteins, Albumin, Albumin and Globulin Ratio (A/G Ratio).
+The dataset contains 199 records and 11 independent variables including *Total Bilirubin*, *Direct Bilirubin*, *Alkphos Alkaline Phsophatase*,
+*Sgpt Alanine Aminotransferase*, *Sgot Aspartate Aminotransferase*, *Total Proteins*, *Albumin*, *Albumin and Globulin Ratio (A/G Ratio)*.
 
 **Dependent Variable**
 
@@ -18,7 +18,7 @@ Once selected, possible improvements will be made to increase the usability of t
 
 ## Analysis
 ### Correlation Heatmap
-* **The highly (positive) correlated variables**: Albumin was highly correlated with more than one feature (*A/G Ratio* and *Total Proteins* at *0.79* and *0.77* respectively)
+* **The highly (positive) correlated variables**: *Albumin* was highly correlated with more than one feature (*A/G Ratio* and *Total Proteins* at *0.79* and *0.77* respectively)
 * **The lowly correlated variables** : *A/G Ratio* has the least correlation with *Alkphos* and *Direct Bilirubin* at *-0.3* and *-0.28* respectively
 
 ### Pair plot
