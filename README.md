@@ -20,6 +20,7 @@ Once selected, possible improvements will be made to increase the usability of t
 ### Correlation Heatmap
 * **The highly (positive) correlated variables**: *Albumin* was highly correlated with more than one feature (*A/G Ratio* and *Total Proteins* at *0.79* and *0.77* respectively)
 * **The lowly correlated variables** : *A/G Ratio* has the least correlation with *Alkphos* and *Direct Bilirubin* at *-0.3* and *-0.28* respectively
+![image](https://user-images.githubusercontent.com/121362860/226029672-fcab7b75-8036-46de-a4de-da834b053137.png)
 
 ### Pair plot
 * No two independent variables helped separate the dataset to predict the output variable.
