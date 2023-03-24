@@ -61,7 +61,7 @@ I recommend the **Neural Network** for the following reasons
 + Consider changing the weight optimization (from “adam” to “lbfgs”) to suit the size of the data. “lbgs” works well for smaller datasets. 
 * Tune the algorithm by increasing the hidden layers to help transform the input variables and provide a better output since it is different to separate the output (liver disease, or no liver disease). 
 
-### S/O to Sam Plati for his help on the codes
+*S/O to Sam Plati for his help on the codes*
 
 
 
